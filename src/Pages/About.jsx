@@ -73,9 +73,11 @@ const About = ({ scrollYProgress }) => {
               custom={3}
             >
               <p className="text-[16px] sm:text-[20px] lg:text-[24px] md:p-10 w-full mt-4 md:mt-0">
-                Hi there! I'm Sujan Dhakal, your not-so-average front-end
-                developer. I have a “strong interest” in making websites look good
-                and function—most of the time.
+              Namaste :)
+
+              I am Sujan Dhakal, Senior at the University of Louisiana @ Monroe, currently pursuing a bachelor's degree in 
+              Computer Science. As an international student from Nepal, I bring enthusiasm, vocal communication skills, dynamism, and a 
+              smart work ethic to my academic pursuits.
               </p>
             </motion.div>
           </div>
@@ -102,9 +104,9 @@ const About = ({ scrollYProgress }) => {
               custom={5}
             >
               <p className="text-[16px] sm:text-[20px] lg:text-[24px] md:p-10 w-full mt-4 md:mt-0">
-                You’ll find my collection of work that showcases my knowledge and
-                knack for creating digital experiences that might just work on
-                the first try.
+                I have had the oppurtunity to expore diverse aspects of Computer Science : web application development, database management, cloud computing,
+                building an AI, and Networking Systems. I have honed my skills over the years through various projects, some of which I have included below.
+                I hope to learn and grow more in the coming days.
                 <br />
                 Enjoy your stay.
               </p>
