@@ -1,0 +1,58 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+@font-face {
+    font-family: "Draper";
+    src: url("/fonts/Draper.ttf");
+  }
+  
+  @font-face {
+    font-family: "Neue";
+    src: url("/fonts/NeueMontreal-Regular.ttf");
+  }
+
+  h1,h2,h3,h4,h5{
+    font-family: "Draper";
+  }
+  p{
+     font-family: "Neue";
+  }
+  .about__heading{
+    font-family: "Neue";
+  }
+  ul{
+    font-family: "Draper";
+  }
+  .container{
+    max-width: 2400px;
+    margin: auto;
+  }
+.marquee{
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Neue";
+  gap: 32px;
+  text-transform: uppercase;
+}
+
+body{
+  background: url(./assets/Texture.png),#dadada;
+
+}
+.mobscreen{
+  background: url(./assets/Texture.png),#dadada;
+}
+.slider{
+  background: url(./assets/Texture.png),#ffffff;
+}
+
+
+
